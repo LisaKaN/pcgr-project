@@ -1,0 +1,3 @@
+patient,status,sample,tissue,vcf
+acrometrix,1,acrometrixT,0,/Users/lisak/PCGR_project/testing/data/acrometrix_hotspot.vcf
+U50CRC01,1,U50CRC-01-1,9,/Users/lisak/PCGR_project/testing/data/U50CRC_run_23_020-021.full_OFA.090524/U50CRC-01-1.full_OFA.090524.vcf
